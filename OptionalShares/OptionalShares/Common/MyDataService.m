@@ -2,8 +2,8 @@
 //  MyDataService.m
 //  01 NavigationTask
 //
-//  Created by seven on 14-9-6.
-//  Copyright (c) 2014年 www.iphonetrain.com 无限互联3G学院. All rights reserved.
+//  Created by mac on 16/2/8.
+//  Copyright © 2016年 xjw. All rights reserved.
 //
 
 #import "MyDataService.h"

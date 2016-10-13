@@ -2,8 +2,8 @@
 //  BaseViewController.m
 //  OptionalShares
 //
-//  Created by mac on 14-10-8.
-//  Copyright (c) 2014年 www.iphonetrain.com 无限互联. All rights reserved.
+//  Created by mac on 16/2/8.
+//  Copyright © 2016年 xjw. All rights reserved.
 //
 
 #import "BaseViewController.h"

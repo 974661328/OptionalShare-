@@ -2,8 +2,8 @@
 //  Common.h
 //  WXWeibo
 //
-//  Created by seven on 14-9-16.
-//  Copyright (c) 2014年 www.iphonetrain.com 无限互联. All rights reserved.
+//  Created by mac on 16/2/8.
+//  Copyright © 2016年 xjw. All rights reserved.
 //
 
 #ifndef WXWeibo_Common_h

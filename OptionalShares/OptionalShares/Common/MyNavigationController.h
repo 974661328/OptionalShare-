@@ -2,8 +2,8 @@
 //  WXNavigationController.h
 //  WXWeibo
 //
-//  Created by wei.chen on 13-5-13.
-//  Copyright (c) 2013年 www.iphonetrain.com 无限互联3G学院. All rights reserved.
+//  Created by mac on 16/2/8.
+//  Copyright © 2016年 xjw. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
